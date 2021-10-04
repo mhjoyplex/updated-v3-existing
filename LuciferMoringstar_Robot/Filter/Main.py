@@ -286,9 +286,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
         elif query.data == "about":
             buttons = [
                 [
-                    InlineKeyboardButton('join our channel', url=f'https://t.me/MDmovises'),
+                    InlineKeyboardButton('🔰join our channel🔰', url=f'https://t.me/MDmovises'),
                     
-                    InlineKeyboardButton('our rename bot', url=f'https://t.me/MdrenametestboT')
+                    InlineKeyboardButton('😎OUR RENAME BOT😎', url=f'https://t.me/MdrenametestboT')
 
                     
                 ]
