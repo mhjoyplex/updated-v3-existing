@@ -25,6 +25,9 @@ Bot Owner Only
 /logger  Get Logs
 /delete Delete File From Database
 
+
+🤖maintained by: [M.D_ADMIN](https://t.me/mdadmin2)
+
 """
 
 ABOUT = """
