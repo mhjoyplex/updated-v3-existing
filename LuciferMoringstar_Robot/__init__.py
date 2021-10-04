@@ -28,9 +28,9 @@ Bot Owner Only
 """
 
 ABOUT = """
-➥ Name :  Auto Filter V3
+➥ Name : M.D Auto Filter V3
     
-➥ Creator : [Naughty PROFESSOR](www.youtube.com/C/NaughtyPROFESSOR)
+➥ Creator : [M.D_ADMIN](https://t.me/admin2)
 
 ➥ Language : Python3
 
