@@ -30,7 +30,7 @@ Bot Owner Only
 ABOUT = """
 ➥ Name : M.D Auto Filter V3
     
-➥ Creator : [M.D_ADMIN](https://t.me/admin2)
+➥ Creator : [M.D_ADMIN](https://t.me/mdadmin2)
 
 ➥ Language : Python3
 
