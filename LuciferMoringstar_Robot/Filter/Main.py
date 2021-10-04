@@ -288,7 +288,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 [
                     InlineKeyboardButton('join our channel', url=f'https://t.me/MDmovises'),
                     
-                    InlineKeyboardButton('join our channel', url=f'https://t.me/MDmovises')
+                    InlineKeyboardButton('our rename bot', url=f'https://t.me/MdrenametestboT')
 
                     
                 ]
