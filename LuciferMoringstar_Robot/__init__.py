@@ -39,5 +39,5 @@ ABOUT = """
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Tutorial : [Click Me]()
+➥ source : [Click Me]()
 """
