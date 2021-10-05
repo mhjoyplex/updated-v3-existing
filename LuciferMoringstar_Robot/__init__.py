@@ -46,5 +46,5 @@ ABOUT = """
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Tutorial : [Click Me]()
+➥ source  : [Click Me](https://github.com/Mdmovies/AutoFilterBotV3.git)
 """
