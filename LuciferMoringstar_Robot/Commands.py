@@ -85,7 +85,7 @@ async def start(bot, message):
                 buttons = [
                     [
                         InlineKeyboardButton('🎖 join our channel 🎖', url='https://t.me/MDMOVISES')
-                    ],[ InlineKeyboardButton('🔰share our group🔰', url=f'https://t.me/share/url?url=HTTPS://t.me/malayalamdubbedmoviegroup&text=ALL-MALAYALAM-MOVIES-GROUP')     
+                    ],[ InlineKeyboardButton('🔰share our group🔰', url=f'https://t.me/share/url?url=HTTPS://t.me/malayalamdubbedmoviegroup&text=🎬ALL-MALAYALAM-MOVIES-GROUP🎬')     
                     ]
                     ]
                 await bot.send_cached_media(
