@@ -290,7 +290,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     
                     InlineKeyboardButton('🤖 RENAME BOT 🤖', url=f'https://t.me/MdrenametestboT')
                 ],[
-                    InlineKeyboardButton('close🔐',callback_data="help")
+                    InlineKeyboardButton('close🔐',callback_data=f"startmessage")
 '
                     
                 ]
