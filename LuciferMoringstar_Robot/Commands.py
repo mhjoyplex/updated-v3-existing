@@ -334,7 +334,7 @@ async def bot_info(bot, message):
         [
             
             InlineKeyboardButton('🔰join our channel🔰', url=f'https//t.me/MDMOVISES')
-        ],[ InlineKeyboardButton('🔰share our group🔰', url=f'https://t.me/share/url?url=HTTPS://t.me/malayalamdubbedmoviegroup&text=ALLMALAYALAMMOVIEGROUP)
+        ],[ InlineKeyboardButton('🔰share our group🔰', url=f'https://t.me/share/url?url=HTTPS://t.me/malayalamdubbedmoviegroup')
         ]
         ]
     await message.reply(text=f"{ABOUT}", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
