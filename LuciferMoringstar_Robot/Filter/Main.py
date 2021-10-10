@@ -100,7 +100,7 @@ async def filter(client, message):
         )    
         buttons.append(
             [InlineKeyboardButton(text=f"📃 Pages 1/{data['total']}",callback_data="pages")],
-            [InlineKeyboardButton('join our channel',url='HTTPS://t.me/MDmovises)]
+            [InlineKeyboardButton('join our channel',url='HTTPS://t.me/MDmovises')]
         )
         poster=None
         if API_KEY:
