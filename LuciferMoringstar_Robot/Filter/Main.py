@@ -81,6 +81,7 @@ async def filter(client, message):
             buttons.append(
                 [InlineKeyboardButton(text="📃 Pages 1/1",callback_data="pages")]
             )
+            buttons = btn 
             buttons.append(
                 [InlineKeyboardButton('join our channel',url='HTTPS://t.me/mdmovises')]
             )
