@@ -5,10 +5,10 @@ from .Utils import (
    get_poster,
    Media
 )
-from .Channel import (
-   RATING,
-   GENRES
-)
+
+   
+  
+
 
 HELP = """
 Basic Commads
